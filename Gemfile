@@ -8,7 +8,7 @@ group :development do
 	gem 'sqlite3', '1.3.8'
 end
 
-
+# making some random change here for git test
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
